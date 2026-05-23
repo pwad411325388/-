@@ -1,0 +1,8 @@
+{
+  "name": "Xiao He Portfolio Case Studies",
+  "description": "An interactive digital case-study portfolio highlighting full-stack design prototypes for boutique health and skincare products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
